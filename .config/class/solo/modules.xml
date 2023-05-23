@@ -16,22 +16,22 @@
 <machine xmlns="https://dueca.tudelft.nl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://dueca.tudelft.nl modules.xsd">
   <project>
     <url>origin:///WorldView.git</url>
-    <module>VisualTestDrive</module>
+    <!--    <module>VisualTestDrive</module> -->
     <module>WorldView</module>
-    <module>ViewpointHack</module>
+    <!--    <module>ViewpointHack</module> -->
     <module>SpecificationBase</module>
-    <module>PlibViewer</module>
-    <module>PlibOverlayTester</module>
+    <!--    <module>PlibViewer</module> -->
+    <!--    <module>PlibOverlayTester</module> -->
     <module>OgreViewer</module>
-    <module>ObjectMotionLog</module>
-    <module>OSGViewer</module>
-    <module>IrrlichtViewer</module>
+    <!--    <module>ObjectMotionLog</module> -->
+    <!--    <module>OSGViewer</module> -->
+    <!--    <module>IrrlichtViewer</module> -->
     <module pseudo="true">HMILabViewFiles</module>
-    <module>FlightGearViewer</module>
+    <!--    <module>FlightGearViewer</module> -->
     <module pseudo="true" inactive="true">Doc</module>
-    <module>ControlView</module>
-    <module>ConfigureView</module>
-    <module pseudo="true">icy-world</module>
+    <!--    <module>ControlView</module> -->
+ <!--      <module>ConfigureView</module> -->
+    <!--    <module pseudo="true">icy-world</module> -->
   </project>
   <project>
     <url>dgrpub:///ae-cs-dueca-base/WorldListener.git</url>
